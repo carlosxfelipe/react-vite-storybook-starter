@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from "@storybook/react";
-import HelloWorld from "./HelloWorld";
+import HelloWorld from "../components/HelloWorld";
 
 const meta: Meta<typeof HelloWorld> = {
   title: "Example/HelloWorld",
