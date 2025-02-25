@@ -3,8 +3,7 @@
 coverage
 node_modules
 public
-src/
-!src/components/
+src/**
 !src/components/**
 !src/index.ts
 .git
