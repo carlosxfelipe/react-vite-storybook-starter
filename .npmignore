@@ -1,0 +1,16 @@
+.storybook
+.yarn
+coverage
+node_modules
+public
+src/
+!src/stories/
+!src/stories/**
+.git
+*.log
+eslint.config.js
+index.css
+index.html
+main.tsx
+tsconfig.json
+vite.config.ts
