@@ -11,5 +11,5 @@
     "moduleResolution": "Node",
     "jsx": "react-jsx"
   },
-  "include": ["src/components/**/*", "src/index.ts"]
+  "include": ["src/components/**/*", "src/components/index.ts"]
 }

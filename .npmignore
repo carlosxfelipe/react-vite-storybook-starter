@@ -5,7 +5,6 @@ node_modules
 public
 src/**
 !src/components/**
-!src/index.ts
 .git
 *.log
 eslint.config.js
